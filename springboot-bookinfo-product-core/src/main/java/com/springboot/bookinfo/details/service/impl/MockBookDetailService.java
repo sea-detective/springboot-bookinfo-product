@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
  *
  * @author hongyang 2019-10-08 20:35
  */
-@Service("bookDetailService")
+@Service
 public class MockBookDetailService implements BookDetailService {
 
     @Override

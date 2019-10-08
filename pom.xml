@@ -50,6 +50,7 @@
     <modules>
         <module>springboot-bookinfo-product-api</module>
         <module>springboot-bookinfo-product-core</module>
+        <module>springboot-bookinfo-product-infra</module>
     </modules>
 
 
