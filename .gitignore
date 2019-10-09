@@ -34,3 +34,4 @@ hs_err_pid*
 /springboot-bookinfo-product-api/target/generated-sources/
 /springboot-bookinfo-product-core/target/
 /springboot-bookinfo-product-infra/target/
+/springboot-bookinfo-product-api/target/springboot-bookinfo-product-api-1.0.0-SNAPSHOT.jar.original

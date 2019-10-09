@@ -28,7 +28,7 @@ public class RestTemplateUtils {
     private static final SimpleClientHttpRequestFactory DEFAULT_REQUEST_FACTORY = new SimpleClientHttpRequestFactory() {
         {
             setConnectTimeout(5000);
-            setReadTimeout(30000);
+            setReadTimeout(5000);
         }
     };
     private static final RestTemplate DEFAULT_REST_TEMPLATE = new RestTemplate(DEFAULT_REQUEST_FACTORY);
