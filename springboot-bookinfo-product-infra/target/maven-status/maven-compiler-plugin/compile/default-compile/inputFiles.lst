@@ -1,1 +1,2 @@
 /Users/hongyang/Documents/cainiao/springboot-bookinfo-product/springboot-bookinfo-product-infra/src/main/java/com/springboot/bookinfo/product/infra/utils/RestTemplateUtils.java
+/Users/hongyang/Documents/cainiao/springboot-bookinfo-product/springboot-bookinfo-product-infra/src/main/java/com/springboot/bookinfo/product/infra/grpc/GrpcClientConfiguration.java

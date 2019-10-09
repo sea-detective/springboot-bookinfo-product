@@ -22,6 +22,12 @@
         </dependency>
 
         <dependency>
+            <groupId>com.springboot.bookinfo.details</groupId>
+            <artifactId>springboot-bookinfo-details-lib</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>23.0</version>

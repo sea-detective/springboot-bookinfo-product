@@ -1,2 +1,3 @@
 com/springboot/bookinfo/product/infra/utils/RestTemplateUtils$1.class
+com/springboot/bookinfo/product/infra/grpc/GrpcClientConfiguration.class
 com/springboot/bookinfo/product/infra/utils/RestTemplateUtils.class
