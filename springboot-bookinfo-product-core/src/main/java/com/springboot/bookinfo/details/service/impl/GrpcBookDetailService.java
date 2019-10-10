@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
  *
  * @author hongyang 2019-10-09 19:46
  */
-@Service
+@Service("bookDetailService")
 public class GrpcBookDetailService implements BookDetailService {
 
     @GrpcClient("detail")

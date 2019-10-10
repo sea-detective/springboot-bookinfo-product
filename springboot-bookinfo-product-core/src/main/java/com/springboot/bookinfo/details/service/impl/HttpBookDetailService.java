@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  *
  * @author hongyang 2019-10-08 20:20
  */
-@Service("bookDetailService")
+@Service
 public class HttpBookDetailService implements BookDetailService {
 
     private static final String GET_BOOK_DETAIL_BASE_URL = "http://details:7001/details/";
